@@ -1,3 +1,3 @@
 # hello-world
 
-It's nice to say hello!
+It's nice to say hey!
