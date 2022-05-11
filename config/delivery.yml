@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: whoa
+data:
+  item_a: exists!
+  item_b: "also exists!"
+
